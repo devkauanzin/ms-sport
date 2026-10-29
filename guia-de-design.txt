@@ -1,0 +1,37 @@
+GUIA DE DESIGN — MS+ SPORTS
+
+CORES
+Preto profundo ........ #08090B  (fundo)
+Grafite ............... #14161A  (cards e painéis)
+Branco ................ #FFFFFF  (títulos e textos principais)
+Cinza ................. #B7BBC3  (textos de apoio)
+Verde do logo ......... #009688  (linhas, ícones e destaques)
+Verde dos botões ...... #00796B  (botões principais; passa o mouse: #00897B)
+Verde claro ........... #6FE0CF  (foco do teclado e links ao passar o mouse)
+
+TIPOGRAFIA (Google Fonts)
+Títulos, menu e botões: Barlow Condensed, pesos 600 e 800, maiúsculas nos botões e chamadas.
+Textos: Barlow, pesos 400 a 600.
+Título da abertura: até 9 rem no computador, ajustado ao tamanho da tela.
+
+LOGO
+Só o símbolo "+" (assets/img/logo.png), 46 px de altura, no cabeçalho e no rodapé. Não alterar nem esticar.
+
+ESTRUTURA DA PÁGINA
+Abertura > Quem somos > Nossa atuação (4 serviços) > Frase de destaque > Nossos clientes > Nossa essência > Contato > Rodapé.
+Cabeçalho fixo: transparente no topo, preto sólido ao rolar. No celular vira menu compacto.
+
+CARDS DOS CLIENTES
+Fundo grafite, foto na proporção 4:5 com o rosto no topo, nome em branco, função em cinza.
+Fundo transparente nas fotos. Sem foto, o card mostra as iniciais.
+Site principal: grade de 4 cards por linha no computador e 2 no celular.
+Versão 3D: galeria em que o card do centro fica à frente e os outros se inclinam.
+
+EFEITOS
+Logo "+" em camadas (3D) com a bola em linhas e partículas verdes, que seguem o mouse ou o toque.
+Cards de serviços e foto de Porto Alegre se inclinam com o mouse.
+Seções entram com leve inclinação ao rolar.
+Quem ativa "reduzir movimento" no aparelho vê tudo parado, sem perder o conteúdo.
+
+RESPONSIVIDADE
+Testado de 320 px (celular pequeno) a 1280 px (computador). Sem rolagem horizontal.

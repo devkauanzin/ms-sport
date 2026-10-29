@@ -1,0 +1,179 @@
+TEXTOS DO SITE MS+ SPORTS
+(todos os textos exatamente como aparecem no site)
+
+
+============================================================
+CABEÇALHO E MENU
+============================================================
+[Botão] ☰
+[Link/botão] Início
+[Link/botão] Sobre
+[Link/botão] Serviços
+[Link/botão] Clientes
+[Link/botão] Contato
+[Link/botão] FALE CONOSCO
+
+============================================================
+ABERTURA
+============================================================
+[Chamada] MS+ FULL SPORTS MARKETING
+[Título principal] Somos a MS+ Sports.
+[Texto] Estamos no mercado desde 2015, conectando pessoas, desenvolvendo estratégias e construindo relações no universo esportivo. Atuamos com comunicação, marketing e mídia esportiva, buscando valorizar talentos e criar oportunidades para nossos clientes.
+[Link/botão] CONHEÇA NOSSA HISTÓRIA
+[Link/botão] NOSSOS CLIENTES
+
+============================================================
+QUEM SOMOS
+============================================================
+[Chamada] QUEM SOMOS
+[Título] Uma agência conectada ao esporte.
+[Texto] Criada em 2015, em Porto Alegre, a MS+ Sports nasceu com o propósito de atuar no mercado esportivo por meio de uma abordagem estratégica e integrada.
+[Texto] Reunimos comunicação, marketing e relacionamento em uma mesma estrutura, trabalhando de acordo com os objetivos de cada cliente.
+[Texto] Acreditamos que o esporte vai além das quatro linhas: envolve pessoas, oportunidades, posicionamento e relações construídas ao longo do tempo.
+
+============================================================
+NOSSA ATUAÇÃO
+============================================================
+[Chamada] NOSSA ATUAÇÃO
+[Título] O que fazemos.
+[Subtítulo] Comunicação e assessoria de imprensa
+[Texto] Estratégia de comunicação, relacionamento com a mídia e desenvolvimento de pautas.
+[Subtítulo] Marketing e redes sociais
+[Texto] Planejamento editorial e produção de conteúdo visual e audiovisual.
+[Subtítulo] Eventos esportivos
+[Texto] Desenvolvimento conceitual de iniciativas para aproximar marcas e público.
+[Subtítulo] Relacionamento e conexões
+[Texto] Aproximação entre profissionais, marcas, parceiros e outros agentes do mercado esportivo.
+
+============================================================
+DESTAQUE / ESSÊNCIA
+============================================================
+[Frase de destaque] O esporte vai além do campo. É estratégia, conexão e oportunidade.
+[Texto] Trabalhamos para aproximar pessoas, fortalecer posicionamentos e desenvolver relações relevantes dentro do mercado esportivo.
+
+============================================================
+NOSSOS CLIENTES
+============================================================
+[Chamada] NOSSOS CLIENTES
+[Título] Profissionais que fazem parte da nossa trajetória.
+[Texto] A MS+ Sports mantém uma rede de atletas e profissionais ligados ao futebol brasileiro. Conheça alguns dos nomes e clubes que fazem parte da nossa atuação.
+[Botão] LIMPAR FILTROS
+
+============================================================
+DESTAQUE / ESSÊNCIA
+============================================================
+[Chamada] NOSSA ESSÊNCIA
+[Frase de destaque] “Experiência, estratégia e relacionamento a serviço do esporte.”
+[Texto] Desde 2015, construindo relações e desenvolvendo projetos conectados às necessidades do mercado esportivo.
+
+============================================================
+CONTATO
+============================================================
+[Título] Vamos conversar?
+[Texto] Quer conhecer melhor a MS+ Sports ou conversar sobre possíveis projetos e parcerias? Entre em contato com nossa equipe.
+[Link/botão] ENTRE EM CONTATO
+
+============================================================
+RODAPÉ
+============================================================
+[Texto] MS+ Sports — Comunicação, estratégia e conexões no esporte.
+[Link/botão] Sobre
+[Link/botão] Serviços
+[Link/botão] Clientes
+[Link/botão] Contato
+[Texto] MS+ Sports. Todos os direitos reservados.
+
+============================================================
+CLIENTES POR CLUBE (41 profissionais, 25 clubes)
+============================================================
+
+GRÊMIO
+  - Gabriel Grando — Goleiro
+  - Kannemann — Zagueiro
+  - Marcos Rocha — Lateral-direito
+  - Villasanti — Volante
+  - Weverton — Goleiro
+
+INTERNACIONAL
+  - Bruno Henrique — Volante
+  - Rogério Maia — Preparador de goleiros
+
+JUVENTUDE
+  - Alan Ruschel — Lateral-esquerdo
+  - Messias — Zagueiro
+
+CRICIÚMA
+  - Marcelo Hermes — Lateral-esquerdo
+  - Marcinho — Lateral
+  - Jhonata Robert — Atacante
+
+CORITIBA
+  - Jorge Andrade — Executivo de futebol
+
+OPERÁRIO
+  - Berto — Atacante
+  - Gabriel Boschilia — Meia
+  - Pedro Vilhena — Meia
+
+CORINTHIANS
+  - André Carrillo — Volante
+  - João Pedro — Zagueiro
+  - Kayke — Atacante
+  - Seedorf — Treinador
+
+I9 FC
+  - Marquinhos — Zagueiro
+
+ITUANO
+  - Lucas Wingert — Goleiro
+
+MIRASSOL
+  - Walter — Goleiro
+
+PALMEIRAS
+  - Arthur — Lateral-esquerdo
+  - Rogério Godoy — Preparador de goleiros
+
+RED BULL BRAGANTINO
+  - Pitta — Atacante
+
+SÃO PAULO
+  - Luciano — Atacante
+
+SANTOS
+  - Thaciano — Meia
+
+FLAMENGO
+  - Rossi — Goleiro
+
+FLUMINENSE
+  - Hércules — Volante
+  - Nonato — Volante
+
+VASCO
+  - Rojas — Meia
+
+ATLÉTICO
+  - Alan Minda — Atacante
+
+ATLÉTICO-GO
+  - Natã — Zagueiro
+
+VILA NOVA
+  - Willian Maranhão — Volante
+
+CUIABÁ
+  - Busatto — Goleiro
+
+SPORT
+  - Brenno — Goleiro
+  - Claudinho — Lateral-direito
+
+BOTAFOGO-PB
+  - Nenê — Meia
+
+CEARÁ
+  - Luiz Otávio — Zagueiro
+
+REMO
+  - Ivan — Goleiro

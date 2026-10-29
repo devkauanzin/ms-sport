@@ -1,0 +1,30 @@
+SITE MS+ SPORTS — PASTA DO SITE
+
+COMO ABRIR
+- Site principal: abra "index.html" no navegador.
+- Versão 3D completa: abra "3d/index.html".
+- Para colocar no ar, envie a pasta inteira (com "index.html" na raiz) para a hospedagem (Netlify, Vercel, GitHub Pages ou a hospedagem da agência).
+- As fontes e a cena 3D carregam pela internet; sem conexão o site abre com fonte padrão e sem a cena 3D.
+
+ESTRUTURA
+arquivo-unico/ ........... os mesmos dois sites em um único arquivo HTML cada (fotos e estilos já embutidos): ms-sports.html e ms-sports-3d.html.
+                            Servem para abrir direto ou enviar por mensagem; para editar fotos e contatos use a versão em pastas (index.html).
+index.html ................ site principal
+3d/index.html ............. versão 3D completa
+assets/css/ ............... estilos (style.css e style-3d.css)
+assets/js/config.js ....... WhatsApp, e-mail e Instagram da agência (vale para os dois sites)
+assets/js/clientes.js ..... lista de clubes, atletas, funções e fotos (vale para os dois sites)
+assets/js/main.js ......... funcionamento do site principal
+assets/js/main-3d.js ...... funcionamento da versão 3D
+assets/img/jogadores/ ..... fotos dos 41 clientes
+assets/img/escudos/ ....... coloque aqui os escudos dos clubes
+assets/img/porto-alegre.webp  foto da seção "Quem somos"
+assets/img/logo.png ....... símbolo "+" da MS+ Sports
+
+documentacao/ ............. textos do site, guia de design (cores, fontes, efeitos), planilha dos clientes (clientes.csv) e descrição do site
+
+COMO ATUALIZAR
+- Trocar a foto de alguém: substitua o arquivo em assets/img/jogadores/ mantendo o mesmo nome (ideal: proporção 4:5, fundo transparente, rosto no topo).
+- Adicionar cliente: inclua uma linha ['Nome','Função',IMG+'arquivo.webp'] no clube em assets/js/clientes.js.
+- Escudo do clube: salve em assets/img/escudos/ e preencha crest no clube, por exemplo crest:BASE+'assets/img/escudos/gremio.png'.
+- Contatos: preencha assets/js/config.js.

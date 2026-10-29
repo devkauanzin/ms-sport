@@ -1,0 +1,9 @@
+DESCRIÇÃO DO SITE MS+ SPORTS
+
+O site institucional da MS+ Sports apresenta a agência de comunicação, marketing e mídia esportiva criada em 2015, em Porto Alegre, e os atletas e profissionais do futebol brasileiro que fazem parte da sua rede.
+
+A página abre com "Somos a MS+ Sports" e segue com a história da agência, as quatro áreas de atuação (comunicação e assessoria de imprensa, marketing e redes sociais, eventos esportivos, relacionamento e conexões), a frase de destaque, a lista de clientes e a seção de contato.
+
+A seção de clientes reúne 41 atletas e profissionais de 25 clubes, organizados só por clube, cada um com foto, nome e função. O visitante pode buscar por nome, função ou clube e filtrar por clube.
+
+O site tem duas versões: a principal, com logotipo em 3D na abertura e efeitos suaves, e a versão 3D completa, em que a câmera gira em volta do logo conforme a página rola e os clientes aparecem numa galeria 3D. As duas funcionam no computador e no celular.
